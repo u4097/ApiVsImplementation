@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApiVsImplementation.iml" filepath="$PROJECT_DIR$/ApiVsImplementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraryA/librarya.iml" filepath="$PROJECT_DIR$/libraryA/librarya.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraryB/libraryb.iml" filepath="$PROJECT_DIR$/libraryB/libraryb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libraryC/libraryc.iml" filepath="$PROJECT_DIR$/libraryC/libraryc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryA/libraryA.iml" filepath="$PROJECT_DIR$/libraryA/libraryA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/libraryB.iml" filepath="$PROJECT_DIR$/libraryB/libraryB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/libraryC.iml" filepath="$PROJECT_DIR$/libraryC/libraryC.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraryD/libraryD.iml" filepath="$PROJECT_DIR$/libraryD/libraryD.iml" />
     </modules>
   </component>
